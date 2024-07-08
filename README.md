@@ -59,16 +59,14 @@ This project is a Flipkart clone built using the MERN stack (MongoDB, Express.js
 
 3. Create a `.env` file in the server directory and add the following environment variables:
     ```env
-    MONGO_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
     DB_USERNAME=your_db_name
-    DB_PASSWORD=nishantfc
-    PAYTM_MID=DIY12386817555501617
-    PAYTM_WEBSITE=DIYtestingweb
-    PAYTM_CHANNEL_ID=WEB
-    PAYTM_INDUSTRY_TYPE_ID=Retail
-    PAYTM_CUST_ID=unzVbW56349744191124
-    PAYTM_MERCHANT_KEY=bKMfNxPPf_QdZppa
+    DB_PASSWORD=your_db_password
+    PAYTM_MID=your_paytm_mid
+    PAYTM_WEBSITE=your_paytm_website
+    PAYTM_CHANNEL_ID=your_paytm_id
+    PAYTM_INDUSTRY_TYPE_ID=your_paytm_industry_type
+    PAYTM_CUST_ID=your_paytm_cust_id
+    PAYTM_MERCHANT_KEY=your_paytm_merchant_key
     ```
 
 4. Start the development servers:
