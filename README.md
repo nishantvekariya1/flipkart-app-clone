@@ -49,6 +49,7 @@ This project is a Flipkart clone built using the MERN stack (MongoDB, Express.js
 2. Install the dependencies for both the client and server:
     ```bash
     # In the server directory
+    cd server
     npm install
 
     # In the client directory
